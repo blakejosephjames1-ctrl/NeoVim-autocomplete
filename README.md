@@ -1,2 +1,2 @@
 # NeoVim-autocomplete
-### Lua based ML autocomplete trained on MIT LICENSED projects 
+### Lua based ML autocompletion framework trained on MIT LICENSED projects desighned for use in NeoVim
